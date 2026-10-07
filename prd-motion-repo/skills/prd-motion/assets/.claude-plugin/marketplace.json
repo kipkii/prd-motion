@@ -1,0 +1,7 @@
+{
+  "name": "prd-motion",
+  "owner": { "name": "YOUR_GITHUB_ID" },
+  "plugins": [
+    { "name": "prd-motion", "source": "./", "description": "PRD·기획서의 각 기능(FR)을 스크롤에 반응하는 모션그래픽 웹페이지로 만드는 스킬" }
+  ]
+}
